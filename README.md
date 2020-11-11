@@ -1,4 +1,5 @@
 # Personal-Dataset
 
 
-![Average Number of Penalties Per Game](https://github.com/morganpalmerton/Personal-Dataset/blob/master/HockeyVisualization.pdf)
+![Average Number of Penalties Per Game](https://raw.githubusercontent.com/morganpalmerton/Personal-Dataset/master/HockeyFigure.png)
+
