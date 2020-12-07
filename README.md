@@ -10,6 +10,6 @@ I decided on this data source because it had the exact information I was looking
  
 I chose to visualize the average penalties per game for each team in the 2019 playoffs. I 	chose to do the average per game because it would disregard the fact of how far each 	team went in the playoffs. It would only take into account the average penalties. To do this, I made a little table in excel and made a row for each team that played in the 	playoffs. I made a column for the total number of penalties taken, and a column for the 	total number of games that team played. To find the number of penalties taken by each 	team, I used the count if function to search for how many rows were for each team. I then 	had to manually go through and count how many games each team played in. Finally, I 	took the total number of penalties divided by the total number of games played in order to 	find the average number of penalties per game.
 
-![Average Number of Penalties Per Game](https://raw.githubusercontent.com/morganpalmerton/Personal-Dataset/master/HockeyFigure.png)
+![Average Number of Penalties Per Game](https://raw.githubusercontent.com/morganpalmerton/Personal-Dataset/master/FinalVisualization.png)
 
 This bar graph demonstrates the average number of penalties per game for each team that played in the 2019 NHL playoffs. 
